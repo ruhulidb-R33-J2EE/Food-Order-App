@@ -83,5 +83,5 @@
 <hr/>
 <h2>All Information Store in Database</h2>
 <div style{display: inline;}>
-    <img src="Image/allOrderPlaceInFirebase.PNG" width="252" height="448">
+    <img src="Image/allOrderPlaceInFirebase.PNG">
 </div>
