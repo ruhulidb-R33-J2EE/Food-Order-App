@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food Order App</string>
+    <string name="slogan">Custom food ordering apps for restaurants. This is your own, custom-built mobile app for Android. Super easy to set up! Personalize the app to reflect your restaurant's brand, from logo to slogan and background image</string>
+
+    <!--MainActivity Button-->
+    <string name="signUp">Sign Up</string>
+    <string name="signIn">Sign In</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
