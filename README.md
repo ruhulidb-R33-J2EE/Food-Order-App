@@ -1,7 +1,19 @@
 <h1>Name : Food Order App</ha>
 
 <hr/>
+<h3>Project Features</h3>
+<ol>
+  <li>User Registration and SignIn</li>
+  <li>Firebase Authentication</li>
+  <li>Different types of food menu</li>
+  <li>Different types of food under a menu item</li>
+  <li>Details about food and add to Cart option</li>
+  <li>Give Order for food</li>
+  <li>Place order in SQLite and after that submit in Firebase</li>
+  <li>Display order details</li>
+</ol>
 
+<hr/>
 <h3>Development Tools &Technologies</h3>
 <ul>
   <li>Java</li>
@@ -10,19 +22,6 @@
   <li>Google Location Service</li>
   <li>Google Places</li>
 </ul>
-<hr/>
-
-<h3>Main Features</h3>
-<ul>
-  <li>Registration and Login option</li>
-  <li>Remember Login Option</li>
-  <li>Provide security code if user forget password</li>
-  <li>Food Menu for different type of food</li>
-  <li>Different type of food item under food menu</li>
-  <li>Details about food item</li>
-  <li>Order food and place order</li>
-  <li>User can see order</li>
-</ul
 
 </hr>
 <h3>Database</h3>
@@ -46,19 +45,6 @@
   <li>Elegant Number Button : Implement a number counter with increment and decrement buttons. </li>
   <li>Android SQLiteAssetHelper : An Android helper class to manage database creation and version management using an application's raw asset files.</li>
   <li>TextDrawable : This light-weight library provides images with letter/text like the Gmail app.</li>
-</ol>
-
-<hr/>
-<h3>Project Features</h3>
-<ol>
-  <li>User Registration and SignIn</li>
-  <li>Firebase Authentication</li>
-  <li>Different types of food menu</li>
-  <li>Different types of food under a menu item</li>
-  <li>Details about food and add to Cart option</li>
-  <li>Give Order for food</li>
-  <li>Place order in SQLite and after that submit in Firebase</li>
-  <li>Display order details</li>
 </ol>
 
 <hr/>
