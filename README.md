@@ -38,10 +38,10 @@
 <hr/>
 <h3>Project Features</h3>
 <ol>
-  <li>User Registration and sign in</li>
+  <li>User Registration and SignIn</li>
   <li>Firebase Authentication</li>
-  <li>Create and modification of different type of food menu</li>
-  <li>Add different type of food under a menu item</li>
+  <li>Different types of food menu</li>
+  <li>Different types of food under a menu item</li>
   <li>Details about food and add to Cart option</li>
   <li>Give Order for food</li>
   <li>Place order in SQLite and after that submit in Firebase</li>
