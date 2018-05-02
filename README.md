@@ -12,6 +12,19 @@
 </ul>
 <hr/>
 
+<h3>Main Features</h3>
+<ul>
+  <ol>Registration and Login option</ol>
+  <ol>Remember Login Option</ol>
+  <ol>Provide security code if user forget password</ol>
+  <ol>Food Menu for different type of food</ol>
+  <ol>Different type of food item under food menu</ol>
+  <ol>Details about food item</ol>
+  <ol>Order food and place order</ol>
+  <ol>User can see order</ol>
+</ul
+
+</hr>
 <h3>Database</h3>
 <ul>
   <li>SQLite</li>
