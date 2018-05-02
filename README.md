@@ -14,14 +14,14 @@
 
 <h3>Main Features</h3>
 <ul>
-  <ol>Registration and Login option</ol>
-  <ol>Remember Login Option</ol>
-  <ol>Provide security code if user forget password</ol>
-  <ol>Food Menu for different type of food</ol>
-  <ol>Different type of food item under food menu</ol>
-  <ol>Details about food item</ol>
-  <ol>Order food and place order</ol>
-  <ol>User can see order</ol>
+  <li>Registration and Login option</li>
+  <li>Remember Login Option</li>
+  <li>Provide security code if user forget password</li>
+  <li>Food Menu for different type of food</li>
+  <li>Different type of food item under food menu</li>
+  <li>Details about food item</li>
+  <li>Order food and place order</li>
+  <li>User can see order</li>
 </ul
 
 </hr>
