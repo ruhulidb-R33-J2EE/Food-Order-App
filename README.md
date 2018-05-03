@@ -1,4 +1,4 @@
-<h1>Name : Food Order App</ha>
+<h1>Name : Food Order App</h1>
 
 <hr/>
 <h3>Project Features</h3>
